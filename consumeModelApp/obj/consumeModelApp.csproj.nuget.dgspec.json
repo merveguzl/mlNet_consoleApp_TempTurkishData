@@ -1,0 +1,123 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/aliniyor/Desktop/mlNetConsole/myMLApp/consumeModelApp/consumeModelApp.csproj": {}
+  },
+  "projects": {
+    "/Users/aliniyor/Desktop/mlNetConsole/myMLApp/consumeModelApp/consumeModelApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aliniyor/Desktop/mlNetConsole/myMLApp/consumeModelApp/consumeModelApp.csproj",
+        "projectName": "consumeModelApp",
+        "projectPath": "/Users/aliniyor/Desktop/mlNetConsole/myMLApp/consumeModelApp/consumeModelApp.csproj",
+        "packagesPath": "/Users/aliniyor/.nuget/packages/",
+        "outputPath": "/Users/aliniyor/Desktop/mlNetConsole/myMLApp/consumeModelApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aliniyor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/aliniyor/Desktop/mlNetConsole/myMLApp/SampleClassification/SampleClassification.Model/SampleClassification.Model.csproj": {
+                "projectPath": "/Users/aliniyor/Desktop/mlNetConsole/myMLApp/SampleClassification/SampleClassification.Model/SampleClassification.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/aliniyor/Desktop/mlNetConsole/myMLApp/SampleClassification/SampleClassification.Model/SampleClassification.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aliniyor/Desktop/mlNetConsole/myMLApp/SampleClassification/SampleClassification.Model/SampleClassification.Model.csproj",
+        "projectName": "SampleClassification.Model",
+        "projectPath": "/Users/aliniyor/Desktop/mlNetConsole/myMLApp/SampleClassification/SampleClassification.Model/SampleClassification.Model.csproj",
+        "packagesPath": "/Users/aliniyor/.nuget/packages/",
+        "outputPath": "/Users/aliniyor/Desktop/mlNetConsole/myMLApp/SampleClassification/SampleClassification.Model/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aliniyor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

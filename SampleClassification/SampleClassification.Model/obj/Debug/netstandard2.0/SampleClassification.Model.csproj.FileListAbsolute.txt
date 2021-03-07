@@ -1,0 +1,10 @@
+/Users/aliniyor/Desktop/mlNetConsole/myMLApp/SampleClassification/SampleClassification.Model/bin/Debug/netstandard2.0/MLModel.zip
+/Users/aliniyor/Desktop/mlNetConsole/myMLApp/SampleClassification/SampleClassification.Model/bin/Debug/netstandard2.0/SampleClassification.Model.deps.json
+/Users/aliniyor/Desktop/mlNetConsole/myMLApp/SampleClassification/SampleClassification.Model/bin/Debug/netstandard2.0/SampleClassification.Model.dll
+/Users/aliniyor/Desktop/mlNetConsole/myMLApp/SampleClassification/SampleClassification.Model/bin/Debug/netstandard2.0/SampleClassification.Model.pdb
+/Users/aliniyor/Desktop/mlNetConsole/myMLApp/SampleClassification/SampleClassification.Model/obj/Debug/netstandard2.0/SampleClassification.Model.csprojAssemblyReference.cache
+/Users/aliniyor/Desktop/mlNetConsole/myMLApp/SampleClassification/SampleClassification.Model/obj/Debug/netstandard2.0/SampleClassification.Model.AssemblyInfoInputs.cache
+/Users/aliniyor/Desktop/mlNetConsole/myMLApp/SampleClassification/SampleClassification.Model/obj/Debug/netstandard2.0/SampleClassification.Model.AssemblyInfo.cs
+/Users/aliniyor/Desktop/mlNetConsole/myMLApp/SampleClassification/SampleClassification.Model/obj/Debug/netstandard2.0/SampleClassification.Model.csproj.CoreCompileInputs.cache
+/Users/aliniyor/Desktop/mlNetConsole/myMLApp/SampleClassification/SampleClassification.Model/obj/Debug/netstandard2.0/SampleClassification.Model.dll
+/Users/aliniyor/Desktop/mlNetConsole/myMLApp/SampleClassification/SampleClassification.Model/obj/Debug/netstandard2.0/SampleClassification.Model.pdb
